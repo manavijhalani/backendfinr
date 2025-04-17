@@ -2,7 +2,6 @@ flask
 flask-cors
 requests
 pinecone-client
-pinecone-plugins
 google-generativeai
 python-dotenv
 numpy
